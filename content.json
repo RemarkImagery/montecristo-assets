@@ -1,0 +1,162 @@
+{
+  "version": "1.0.0",
+  "welcome": {
+    "headline": "Welcome to Monte Christo",
+    "tagline": "Your stay, beautifully arranged.",
+    "videoURL": "https://github.com/RemarkImagery/montecristo-assets/releases/download/v1/montecristo-trailer-full.mp4"
+  },
+  "compendium": [
+    {
+      "id": "wifi",
+      "title": "Wi-Fi",
+      "symbol": "wifi",
+      "body": "Network: MonteCristo-Guest\nPassword: provided on your welcome card.\n\nComplimentary high-speed Wi-Fi reaches every room, the lobby, the pool deck and the gardens. For help connecting smart TVs or game consoles, dial 0 from your room phone."
+    },
+    {
+      "id": "checkout",
+      "title": "Check-out",
+      "symbol": "key.fill",
+      "body": "Standard check-out is 11:00 a.m. Late check-out until 1:00 p.m. is complimentary subject to availability — please request it at the front desk or via the concierge the night before.\n\nExpress check-out: leave your key card in the room and we will email your folio."
+    },
+    {
+      "id": "concierge",
+      "title": "Concierge",
+      "symbol": "bell.fill",
+      "body": "Available 24 hours. Dial 0 from your room phone or visit the lobby desk between the lifts.\n\nWe can arrange dinner reservations at any restaurant in town, private transport, in-room spa treatments, theatre tickets, child-care and bespoke excursions."
+    },
+    {
+      "id": "restaurants",
+      "title": "Restaurants & Bar",
+      "symbol": "fork.knife",
+      "body": "Atrium — Breakfast 7:00 – 11:00, Dinner 18:00 – 22:00\nLa Terrasse — Lunch 12:00 – 15:00, Dinner 18:30 – 22:30\nThe Bar at Monte Christo — 16:00 until late\nIn-Room Dining — 24 hours\n\nResident guests enjoy priority seating; please book through the concierge."
+    },
+    {
+      "id": "spa",
+      "title": "Spa & Wellness",
+      "symbol": "sparkles",
+      "body": "Spa open daily 8:00 – 21:00. Treatments by appointment — dial 0 or visit the spa reception on the lower ground floor.\n\nSauna, steam room, indoor pool and relaxation lounge are complimentary for resident guests."
+    },
+    {
+      "id": "pool",
+      "title": "Pool",
+      "symbol": "drop.fill",
+      "body": "Outdoor pool open 7:00 until sunset. Towels are provided poolside.\nIndoor pool open 6:00 – 22:00.\n\nPool bar service from 11:00 – 19:00 — wave to a server or scan the QR code on your sun-lounger."
+    },
+    {
+      "id": "fitness",
+      "title": "Fitness Centre",
+      "symbol": "figure.run",
+      "body": "Open 24 hours, located on the lower ground floor next to the spa.\n\nCardio equipment, free weights, Peloton bikes and a stretch studio. Personal trainers available by appointment via the concierge."
+    },
+    {
+      "id": "housekeeping",
+      "title": "Housekeeping",
+      "symbol": "bed.double.fill",
+      "body": "Daily turn-down service after 18:00. Hang the privacy card on your door if you would prefer not to be disturbed.\n\nFor additional towels, pillows, a humidifier or other amenities, dial 0."
+    },
+    {
+      "id": "emergency",
+      "title": "Emergency",
+      "symbol": "exclamationmark.triangle.fill",
+      "body": "In an emergency dial 9 on your room phone for the duty manager, who will dispatch the appropriate service.\n\nFire exits are clearly marked on each floor — please review the door card on the inside of your room door for assembly point details."
+    }
+  ],
+  "thingsToDo": [
+    { "id": "pool",     "title": "Outdoor Pool",  "subtitle": "7 a.m. – sunset",                "symbol": "figure.pool.swim",    "tint": "cyan" },
+    { "id": "spa",      "title": "Spa",           "subtitle": "Treatments by appointment",      "symbol": "sparkles",            "tint": "pink" },
+    { "id": "tennis",   "title": "Tennis Court",  "subtitle": "Reserve at the concierge",       "symbol": "tennis.racket",       "tint": "green" },
+    { "id": "library",  "title": "Library",       "subtitle": "Open 24 hours · second floor",   "symbol": "books.vertical.fill", "tint": "brown" },
+    { "id": "games",    "title": "Game Room",     "subtitle": "Billiards · darts · table tennis", "symbol": "gamecontroller.fill", "tint": "indigo" },
+    { "id": "garden",   "title": "Garden Walk",   "subtitle": "Self-guided · map at lobby",     "symbol": "leaf.fill",           "tint": "mint" },
+    { "id": "beach",    "title": "Beach Access",  "subtitle": "Private path · 3-min walk",      "symbol": "beach.umbrella.fill", "tint": "orange" },
+    { "id": "cinema",   "title": "Cinema Lounge", "subtitle": "Nightly screening · 8 p.m.",     "symbol": "film.fill",           "tint": "purple" }
+  ],
+  "miniBar": [
+    {
+      "name": "Beverages",
+      "items": [
+        { "name": "Still Water",       "note": "750 ml",                "price": "$6" },
+        { "name": "Sparkling Water",   "note": "750 ml",                "price": "$6" },
+        { "name": "Soft Drinks",       "note": "Coke / Diet / Sprite",  "price": "$5" },
+        { "name": "Fresh Juice",       "note": "Orange · Apple",        "price": "$8" },
+        { "name": "Espresso Capsules", "note": "Per capsule",           "price": "$3" }
+      ]
+    },
+    {
+      "name": "Spirits & Wine",
+      "items": [
+        { "name": "Champagne",  "note": "Half bottle, Brut",  "price": "$45" },
+        { "name": "Red Wine",   "note": "Half bottle, house", "price": "$28" },
+        { "name": "White Wine", "note": "Half bottle, house", "price": "$28" },
+        { "name": "Whisky",     "note": "50 ml",              "price": "$14" },
+        { "name": "Vodka",      "note": "50 ml",              "price": "$12" },
+        { "name": "Local Beer", "note": "330 ml",             "price": "$9" }
+      ]
+    },
+    {
+      "name": "Snacks",
+      "items": [
+        { "name": "Mixed Nuts",         "note": "",                          "price": "$10" },
+        { "name": "Chocolate Truffles", "note": "Box of 6",                  "price": "$14" },
+        { "name": "Local Crisps",       "note": "Sea salt",                  "price": "$7" },
+        { "name": "Fresh Fruit Plate",  "note": "From in-room dining",       "price": "$18" }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "sailing",
+      "title": "Sunset Sailing",
+      "summary": "Two-hour catamaran cruise along the coast with sparkling wine and canapés.",
+      "symbol": "sailboat.fill",
+      "tint": "blue",
+      "duration": "2 hours",
+      "price": "$120 / guest"
+    },
+    {
+      "id": "snorkel",
+      "title": "Snorkel Reef Tour",
+      "summary": "Guided snorkel trip to a protected reef. All gear and a light lunch provided.",
+      "symbol": "drop.fill",
+      "tint": "teal",
+      "duration": "3 hours",
+      "price": "$95 / guest"
+    },
+    {
+      "id": "vineyard",
+      "title": "Vineyard & Winery",
+      "summary": "Half-day tour of three local vineyards with tastings and lunch on the estate.",
+      "symbol": "wineglass.fill",
+      "tint": "purple",
+      "duration": "5 hours",
+      "price": "$180 / guest"
+    },
+    {
+      "id": "helicopter",
+      "title": "Helicopter Coastline",
+      "summary": "Scenic flight over the cliffs and bays with a Champagne toast on landing.",
+      "symbol": "airplane",
+      "tint": "orange",
+      "duration": "45 minutes",
+      "price": "$320 / guest"
+    },
+    {
+      "id": "picnic",
+      "title": "Private Beach Picnic",
+      "summary": "Reserved beach cabana, chef's hamper, dedicated server and Champagne service.",
+      "symbol": "beach.umbrella.fill",
+      "tint": "pink",
+      "duration": "Half day",
+      "price": "$240 / couple"
+    },
+    {
+      "id": "spa-couples",
+      "title": "Spa Couples Ritual",
+      "summary": "Two-hour signature treatment for two in the private spa villa.",
+      "symbol": "sparkles",
+      "tint": "indigo",
+      "duration": "2 hours",
+      "price": "$360 / couple"
+    }
+  ]
+}
