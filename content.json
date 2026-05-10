@@ -16,7 +16,7 @@
       "id": "checkout",
       "title": "Check-out",
       "symbol": "key.fill",
-      "body": "Standard check-out is 11:00 a.m. Late check-out until 1:00 p.m. is complimentary subject to availability — please request it at the front desk or via the concierge the night before.\n\nExpress check-out: leave your key card in the room and we will email your folio."
+      "body": "Standard check-out is 11:00 a.m. Late check-out until 1:00 p.m. is complimentary subject to availability, please request it at the front desk or via the concierge the night before.\n\nExpress check-out: leave your key card in the room and we will email your folio."
     },
     {
       "id": "concierge",
@@ -28,19 +28,19 @@
       "id": "restaurants",
       "title": "Restaurants & Bar",
       "symbol": "fork.knife",
-      "body": "Atrium — Breakfast 7:00 – 11:00, Dinner 18:00 – 22:00\nLa Terrasse — Lunch 12:00 – 15:00, Dinner 18:30 – 22:30\nThe Bar at Monte Christo — 16:00 until late\nIn-Room Dining — 24 hours\n\nResident guests enjoy priority seating; please book through the concierge."
+      "body": "Atrium, Breakfast 7:00 – 11:00, Dinner 18:00 – 22:00\nLa Terrasse, Lunch 12:00 – 15:00, Dinner 18:30 – 22:30\nThe Bar at Monte Christo, 16:00 until late\nIn-Room Dining, 24 hours\n\nResident guests enjoy priority seating; please book through the concierge."
     },
     {
       "id": "spa",
       "title": "Spa & Wellness",
       "symbol": "sparkles",
-      "body": "Spa open daily 8:00 – 21:00. Treatments by appointment — dial 0 or visit the spa reception on the lower ground floor.\n\nSauna, steam room, indoor pool and relaxation lounge are complimentary for resident guests."
+      "body": "Spa open daily 8:00 – 21:00. Treatments by appointment, dial 0 or visit the spa reception on the lower ground floor.\n\nSauna, steam room, indoor pool and relaxation lounge are complimentary for resident guests."
     },
     {
       "id": "pool",
       "title": "Pool",
       "symbol": "drop.fill",
-      "body": "Outdoor pool open 7:00 until sunset. Towels are provided poolside.\nIndoor pool open 6:00 – 22:00.\n\nPool bar service from 11:00 – 19:00 — wave to a server or scan the QR code on your sun-lounger."
+      "body": "Outdoor pool open 7:00 until sunset. Towels are provided poolside.\nIndoor pool open 6:00 – 22:00.\n\nPool bar service from 11:00 – 19:00, wave to a server or scan the QR code on your sun-lounger."
     },
     {
       "id": "fitness",
@@ -58,7 +58,7 @@
       "id": "emergency",
       "title": "Emergency",
       "symbol": "exclamationmark.triangle.fill",
-      "body": "In an emergency dial 9 on your room phone for the duty manager, who will dispatch the appropriate service.\n\nFire exits are clearly marked on each floor — please review the door card on the inside of your room door for assembly point details."
+      "body": "In an emergency dial 9 on your room phone for the duty manager, who will dispatch the appropriate service.\n\nFire exits are clearly marked on each floor, please review the door card on the inside of your room door for assembly point details."
     }
   ],
   "thingsToDo": [
